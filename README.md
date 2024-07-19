@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, My name is Ajinkya Jagtap and I am a Dedicated Full Stack Developer and Engineering Enthusiast</p>
+<p align="left">Hi, My name is Anuj Chobe and I am a Dedicated Full Stack Developer and Engineering Enthusiast</p>
 
 ###
 
@@ -11,11 +11,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ajinkya-jagtap-2023ai/" target="_blank">
+  <a href="https://www.linkedin.com/in/anujchobe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="ajinkyajagtap2806@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="gmail logo"  />
   </a>
 </div>
 
@@ -31,7 +28,7 @@
 
 ###
 
-<p align="left">- Bugs Creator Since 2022 🐞<br>- Currently Mastering MERN Stack 📚<br>- Goals: Elevate Tech Solutions, Impactful Contributions 🎯<br>- Fun Fact: Thrives in Structured Chaos 🎲</p>
+<p align="left">I am a proficient MERN (MongoDB, Express.js, React.js, Node.js) full stack developer with a strong foundation in both frontend and backend technologies. My expertise spans across various projects, showcasing my ability to create dynamic and responsive web applications.</p>
 
 ###
 
@@ -52,8 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -61,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
