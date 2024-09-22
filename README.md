@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I am a proficient MERN (MongoDB, Express.js, React.js, Node.js) full stack developer with a strong foundation in both frontend and backend technologies. My expertise spans across various projects, showcasing my ability to create dynamic and responsive web applications.</p>
+<p align="left">I am a proficient Developer with knowledge and experience in full stack developement and software development with a strong foundation in AI ML and GenAI technologies. My expertise spans across various projects, showcasing my ability to create dynamic and responsive projects.</p>
 
 ###
 
